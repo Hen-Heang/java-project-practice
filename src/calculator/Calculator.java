@@ -42,6 +42,7 @@ public class Calculator {
                     System.out.println("Result: " + result);
                 }
 
+
             }catch (Exception e){
                 System.out.println("Error: "+ e.getMessage());
                 scanner.nextLine();
